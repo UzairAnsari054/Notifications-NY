@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifications-NY</string>
+    <string name="main">Main Screen</string>
+    <string name="details">Details Screen</string>
+</resources>
